@@ -20,6 +20,7 @@ other_port="22,25,26,50,57,105,106,109,110,143,158,209,220,218,465,587,993,995,1
 bt_key_word="torrent
 .torrent
 peer_id=
+antpool
 announce
 info_hash
 get_peers
