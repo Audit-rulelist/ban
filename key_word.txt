@@ -36,3 +36,4 @@ xunlei
 sandai
 Thunder
 XLLiveUD
+btc
