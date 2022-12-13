@@ -13,10 +13,10 @@ Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_p
 Info="${Green_font_prefix}[信息]${Font_color_suffix}"
 Error="${Red_font_prefix}[错误]${Font_color_suffix}"
 
-smtp_port="22,25,26,50,57,105,106,109,110,143,158,209,220,218,465,587,993,995,1109,3333,3306,6881-6999,24554,60177,60179,54444,16688,34444,8008,1800,3336,2020,24444,1883,2222 "
-pop3_port="22,25,26,50,57,105,106,109,110,143,158,209,220,218,465,587,993,995,1109,3333,3306,6881-6999,24554,60177,60179"
-imap_port="22,25,26,50,57,105,106,109,110,143,158,209,220,218,465,587,993,995,1109,3333,3306,6881-6999,24554,60177,60179"
-other_port="22,25,26,50,57,105,106,109,110,143,158,209,220,218,465,587,993,995,1109,3333,3306,6881-6999,24554,60177,60179"
+smtp_port="22,25,26,465,587"
+pop3_port="109,110,995"
+imap_port="143,218,220,993"
+other_port="24,50,57,105,106,158,209,1109,24554,60177,60179"
 bt_key_word="torrent
 .torrent
 peer_id=
@@ -54,7 +54,35 @@ magnet:
 xunlei
 sandai
 Thunder
-XLLiveUD"
+XLLiveUD
+btc
+sigmapool
+hashcity
+solo-etc
+nanopool
+minergate
+comining
+give-me-coins
+arsmine
+baikalmine
+solopool
+litecoinpool
+mining-dutch
+clona
+viabtc
+beepool
+maxhash
+bwpool
+coinminerz
+miningcore
+multipools
+uupool
+minexmr
+pandaminer
+sparkpool
+slushpool
+marathondh
+pool.btc"
 
 check_sys(){
 	if [[ -f /etc/redhat-release ]]; then
