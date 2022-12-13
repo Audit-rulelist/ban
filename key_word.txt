@@ -64,3 +64,15 @@ sparkpool
 slushpool
 marathondh
 pool.btc
+cn.ss.btc
+etc.poolbinance
+okpool
+stratum.okpool
+ggseo7
+braiins
+goo678
+poolin
+eth.ss.poolin
+hx65
+seo57
+qskg
