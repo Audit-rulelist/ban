@@ -3,6 +3,7 @@ torrent
 peer_id=
 antpool
 f2pool
+f2pool.com
 ethermine
 hiveon
 antpool
@@ -92,3 +93,5 @@ kimchi.finance
 ww16.kimchi
 dfi.money
 dfi
+curve.fi
+curve
