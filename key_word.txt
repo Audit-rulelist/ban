@@ -80,4 +80,4 @@ poolbinance
 bs.poolbinance
 sha256.poolbinance
 salmonswap
-dforce
+staking.dforce
