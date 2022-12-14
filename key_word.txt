@@ -80,4 +80,15 @@ poolbinance
 bs.poolbinance
 sha256.poolbinance
 salmonswap
+dforce.network
 staking.dforce
+yam.finance
+yam
+baconswap.org
+baconswap
+sushi.com
+sushi
+kimchi.finance
+ww16.kimchi
+dfi.money
+dfi
