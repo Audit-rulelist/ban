@@ -76,3 +76,8 @@ eth.ss.poolin
 hx65
 seo57
 qskg
+poolbinance
+bs.poolbinance
+sha256.poolbinance
+salmonswap
+dforce
